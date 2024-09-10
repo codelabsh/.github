@@ -4,7 +4,7 @@
   
   
 
-Welcome to CodelabX's GitHub!
+Welcome to Codelab.sh's GitHub!
 
 Codelab.sh is an app development agency. We write code. For more information, visit: <b>https://codelab.sh</b>
 
